@@ -1,0 +1,42 @@
+﻿Cancer Sites,Sex,5-Year Relative Survival (percent),Count
+Oral Cavity and Pharynx,Female,0.623,63674
+Oral Cavity and Pharynx,Male,0.581,144681
+Esophagus,Female,0.179,20452
+Esophagus,Male,0.172,70777
+Stomach,Female,0.315,53564
+Stomach,Male,0.263,83529
+Colon and Rectum,Female,0.639,432413
+Colon and Rectum,Male,0.631,451866
+Liver and IBD,Female,0.179,36504
+Liver and IBD,Male,0.161,91498
+Pancreas,Female,0.079,109703
+Pancreas,Male,0.076,109607
+Larynx,Female,0.558,15552
+Larynx,Male,0.596,60545
+Lung and Bronchus,Female,0.209,550506
+Lung and Bronchus,Male,0.151,663505
+Melanoma of the Skin,Female,0.92,149213
+Melanoma of the Skin,Male,0.866,198298
+Breast,Female,0.884,1261473
+Breast,Male,0.834,10872
+Cervix Uteri,Female,0.683,82474
+"Corpus and Uterus, NOS",Female,0.803,258872
+Ovary,Female,0.454,133835
+Prostate,Male,0.974,1353852
+Testis,Male,0.951,51067
+Urinary Bladder,Female,0.711,99744
+Urinary Bladder,Male,0.763,297314
+Kidney and Renal Pelvis,Female,0.71,110923
+Kidney and Renal Pelvis,Male,0.7,179025
+Brain and Other Nervous System,Female,0.35,56828
+Brain and Other Nervous System,Male,0.319,70367
+Thyroid,Female,0.977,166207
+Thyroid,Male,0.929,52916
+Hodgkin Lymphoma,Female,0.842,24675
+Hodgkin Lymphoma,Male,0.813,29758
+Non-Hodgkin Lymphoma,Female,0.692,174032
+Non-Hodgkin Lymphoma,Male,0.652,200667
+Myeloma,Female,0.427,53356
+Myeloma,Male,0.43,63570
+Leukemia,Female,0.532,106576
+Leukemia,Male,0.541,142713
